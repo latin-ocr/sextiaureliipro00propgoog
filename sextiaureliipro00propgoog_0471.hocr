@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sextiaureliipro00propgoog_0471.png"; bbox 0 0 3134 4758; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 397 1534 1049 1650">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 397 1534 1049 1650">
+     <span class='ocr_line' id='line_1_1' title="bbox 397 1534 1049 1650; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 397 1577 400 1586; x_wconf 90' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 462 1537 693 1650; x_wconf 87' lang='lat' dir='ltr'>SEXTI</span> <span class='ocrx_word' id='word_1_3' title='bbox 720 1534 1049 1649; x_wconf 82' lang='lat' dir='ltr'>AURELII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 349 1839 1142 2089">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 349 1839 1142 2089">
+     <span class='ocr_line' id='line_1_2' title="bbox 349 1839 1142 2089; baseline 0.003 -42"><span class='ocrx_word' id='word_1_4' title='bbox 349 1839 1142 2089; x_wconf 85' lang='lat' dir='ltr'>PROPERTII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 414 2209 1402 2407">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 414 2209 1402 2407">
+     <span class='ocr_line' id='line_1_3' title="bbox 414 2209 1402 2407; baseline 0.003 -63"><span class='ocrx_word' id='word_1_5' title='bbox 414 2209 657 2345; x_wconf 81' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_6' title='bbox 691 2221 1094 2375; x_wconf 79' lang='lat' dir='ltr'><strong>QUARTUS.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1398 2397 1402 2407; x_wconf 11' lang='lat'><strong>¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 605 2541 904 2635">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 605 2541 904 2635">
+     <span class='ocr_line' id='line_1_4' title="bbox 605 2541 904 2635; baseline -0.007 -1"><span class='ocrx_word' id='word_1_8' title='bbox 605 2541 904 2635; x_wconf 77' lang='lat' dir='ltr'><strong>CARMINA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1572 4758">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1572 4758">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1572 4758; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1572 4758; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
